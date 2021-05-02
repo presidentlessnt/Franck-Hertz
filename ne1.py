@@ -103,5 +103,5 @@ plt.ylabel('$\dfrac{I_A}{nA}$')
 plt.legend(title='Linea - $U_H$')
 plt.xlim(0,100)
 
-#plt.show()
+plt.show()
 
